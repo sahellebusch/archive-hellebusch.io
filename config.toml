@@ -2,6 +2,7 @@ baseURL = "https://hellebusch.io"
 languageCode = "en-us"
 title = "hellebusch.io"
 theme = "coder"
+enableEmoji = true
 
 [params] # theme parameters
     author = "Sean Hellebusch"
