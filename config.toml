@@ -1,7 +1,7 @@
 baseURL = "https://hellebusch.io"
 languageCode = "en-us"
 title = "hellebusch.io"
-theme = "coder"
+theme = "hugo-coder"
 enableEmoji = true
 
 [params] # theme parameters

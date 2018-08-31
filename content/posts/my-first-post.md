@@ -1,8 +1,11 @@
----
-title: "First Post"
-date: 2018-04-21T15:53:52-07:00
-draft: false
----
++++ 
+draft = false
+date = "2018-01-01T00:00:00-00:00"
+title = "my-first-post"
+slug = "" 
+tags = []
+categories = []
++++
 
 # My First Post!
 
